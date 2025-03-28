@@ -84,7 +84,7 @@ work:
     company_url: https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/
     company_logo: ""
     date_start: 2023-05-01
-    date_end: 2024-09-31
+    date_end: 2024-09-30
   - position: Digital Twin Application Engineer
     company_name: China Industrial Control Systems Cyber Emergency Response Team, CIC
     company_url: ""

@@ -153,7 +153,7 @@ skills:
         percent: 80
         icon: music
 
-  languages:
+languages:
   - name: English
     percent: 100
   - name: Chinese

@@ -85,14 +85,20 @@ work:
     date_start: 2023-05-01
     date_end: 2024-09-30
     summary: |
-      - A novel prompt engineering method called "Twin Prompt" is introduced to enhance the quality of LLM-generated responses.
-      - $C^2$Embedding: an innovative embedding model specifically designed for climate-change information retrieval, surpassing OpenAI text-embedding-3-large by +9.8% Hit-rate@5 and +8.6% MRR@5.
-      - $C^2$Reranker: an outstanding re-ranking model attaining 71.5% accuracy and 91.1% NDCG@10 with 33M parameters—94.2% leaner compared to BGE Re-ranker-v2-M3 with 89.6% NDCG@10 and 70.2% accuracy.
+      - Twin Prompt: A novel prompt engineering method is introduced to enhance the quality of LLM-generated responses.
+      - C2Embedding: an innovative embedding model specifically designed for climate-change information retrieval, surpassing OpenAI text-embedding-3-large by +9.8% Hit-rate@5 and +8.6% MRR@5.
+      - C2Reranker: an outstanding re-ranking model attaining 71.5% accuracy and 91.1% NDCG@10 with 33M parameters—94.2% leaner compared to BGE Re-ranker-v2-M3 with 89.6% NDCG@10 and 70.2% accuracy.
   - position: Digital Twin Application
     company_name: The People’s Republic of China Engineering Research Center for Mobile Health Management System
     company_logo: ""
     date_start: 2023-05-01
     date_end: 2024-09-30
+  - position: Blockchain Development
+    company_name: Yangtze Delta Region Institute of Tsinghua University
+    company_url: ""
+    company_logo: ""
+    date_start: 2023-09-01
+    date_end: 2024-01-31
   - position: Effective Reasoning in Base Language Models
     company_name: Zhejiang-Cyprus Joint Laboratory of Smart City and Mobile Health
     company_url: ""
@@ -102,12 +108,6 @@ work:
     summary: |
       - Introduced the innovative concept of Heuristic Chain of Thought (CoT) into Base Language Models (BLMs), affirming that CoT extends beyond a mere incidental outcome of emergent abilities, breaking new ground in the field
       - Unleashed the untapped potential of BLMs by implementing a novel SPIRE template, setting a precedent for future research
-  - position: Blockchain Development
-    company_name: Yangtze Delta Region Institute of Tsinghua University
-    company_url: ""
-    company_logo: ""
-    date_start: 2023-09-01
-    date_end: 2024-01-31
   - position: Digital Solution Development
     company_name: Yangtze Delta Region Institute of Tsinghua University
     company_url: ""

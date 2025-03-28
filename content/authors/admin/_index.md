@@ -153,13 +153,14 @@ skills:
         percent: 80
         icon: music
 
-languages:
-  - name: English
-    percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Japanese
-    percent: 25
+
+ languages:
+   - name: English
+     percent: 100
+   - name: Chinese
+     percent: 75
+   - name: Japanese
+     percent: 25
 
 # Awards.
 #   Add/remove as many awards below as you like.

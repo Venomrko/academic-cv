@@ -3,7 +3,7 @@
 title: Ren Zhuang
 
 # Name pronunciation (optional)
-# name_pronunciation: Chien Shiung Wu
+name_pronunciation: ""
 
 # Full name (for SEO)
 first_name: Ren
@@ -79,32 +79,36 @@ education:
       - Mechanisms and Machine Theory
 
 work:
-  - position: Research Scientist
-    company_name: The People’s Republic of China Engineering Research Center for Mobile Health Management System
-    company_url: https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/
+  - position: LLM Powered Dialogue System for Advancing Carbon Neutrality
+    company_name: "Mentors: Prof.Dr. Ben Wang and Prof.Dr. Shuifa Sun, Master's Thesis"
     company_logo: ""
     date_start: 2023-05-01
     date_end: 2024-09-30
-  - position: Digital Twin Application Engineer
-    company_name: China Industrial Control Systems Cyber Emergency Response Team, CIC
-    company_url: ""
+    summary: |
+      - A novel prompt engineering method called "Twin Prompt" is introduced to enhance the quality of LLM-generated responses.
+      - $C^2$Embedding: an innovative embedding model specifically designed for climate-change information retrieval, surpassing OpenAI text-embedding-3-large by +9.8% Hit-rate@5 and +8.6% MRR@5.
+      - $C^2$Reranker: an outstanding re-ranking model attaining 71.5% accuracy and 91.1% NDCG@10 with 33M parameters—94.2% leaner compared to BGE Re-ranker-v2-M3 with 89.6% NDCG@10 and 70.2% accuracy.
+  - position: Digital Twin Application
+    company_name: The People’s Republic of China Engineering Research Center for Mobile Health Management System
     company_logo: ""
-    date_start: 2024-07-01
-    date_end: 2024-06-30
-    date_end: ""
-  - position: Backend Software Engineer
+    date_start: 2023-05-01
+    date_end: 2024-09-30
+  - position: Effective Reasoning in Base Language Models
     company_name: Zhejiang-Cyprus Joint Laboratory of Smart City and Mobile Health
     company_url: ""
     company_logo: ""
     date_start: 2022-11-01
     date_end: 2023-05-31
-  - position: Blockchain Engineer
+    summary: |
+      - Introduced the innovative concept of Heuristic Chain of Thought (CoT) into Base Language Models (BLMs), affirming that CoT extends beyond a mere incidental outcome of emergent abilities, breaking new ground in the field
+      - Unleashed the untapped potential of BLMs by implementing a novel SPIRE template, setting a precedent for future research
+  - position: Blockchain Development
     company_name: Yangtze Delta Region Institute of Tsinghua University
     company_url: ""
     company_logo: ""
     date_start: 2023-09-01
     date_end: 2024-01-31
-  - position: Digital Solution Engineer
+  - position: Digital Solution Development
     company_name: Yangtze Delta Region Institute of Tsinghua University
     company_url: ""
     company_logo: ""
@@ -116,51 +120,32 @@ work:
 skills:
   - name: Technical Skills
     items:
-      - name: Python
+      - name: Python, C/C++, Rust
         description: ""
-        percent: 80
         icon: code-bracket
-      - name: Rust
+      - name: Pytorch, Git, Docker
         description: ""
-        percent: 40
-        icon: code-branch
-      - name: Data Science
-        description: ""
-        percent: 80
         icon: chart-bar
-      - name: pytorch
-        description: ""
-        percent: 80
-        icon: pytorch
   - name: Hobbies
     color: "#eeac02"
     color_border: "#f0bf23"
     items:
-      - name: Climbing
+      - name: Climbing, Adventure
         description: ""
         percent: 60
         icon: mountain
-      - name: Adventure
-        description: ""
-        percent: 100
-        icon: compass
-      - name: Travel
+      - name: Travel, Music
         description: ""
         percent: 80
         icon: camera
-      - name: Music
-        description: ""
-        percent: 80
-        icon: music
-
 
 languages:
-   - name: English
-     percent: 100
-   - name: Chinese
-     percent: 75
-   - name: Japanese
-     percent: 25
+  - name: English
+    percent: 100
+  - name: Chinese
+    percent: 75
+  - name: Japanese
+    percent: 25
 
 # Awards.
 #   Add/remove as many awards below as you like.
